@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         My name is Vũ.
-         My nick name is Diro.
+         I'm Vũ.<br/>
+         My profession is a Website Developer ^.^
         </p>
       </header>
     </div>
